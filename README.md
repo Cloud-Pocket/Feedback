@@ -14,6 +14,14 @@
     your workflows and build runs and actions.
 </p>
 
+<br/>
+
+<p align="center">
+    <a href="https://github.com/Cloud-Pocket/Cloud-Pocket/issues/new/choose">
+        <img src="https://raw.githubusercontent.com/Cloud-Pocket/Cloud-Pocket/7947fe4e119a24606f9f6d09b31ff96b86bcd56a/send-feedback-button.svg" alt="Send Feedback" width="30%">
+    </a>
+</p>
+
 ## Abstract
 
 This repository contains no code and is primarily used to open up issues & feature request or ideas for Cloud Pocket.
@@ -22,10 +30,4 @@ This repository contains no code and is primarily used to open up issues & featu
 
 Please feel free to open up an issue if you have any feedback, feature requests/ideas or experience a problem with Cloud Pocket.
 
-<br/>
-
-<p align="center">
-    <a href="https://github.com/Cloud-Pocket/Cloud-Pocket/issues/new/choose">
-        <img src="https://raw.githubusercontent.com/Cloud-Pocket/Cloud-Pocket/7947fe4e119a24606f9f6d09b31ff96b86bcd56a/send-feedback-button.svg" alt="Send Feedback" width="30%">
-    </a>
-</p>
+> If you don't have a GitHub account you can send your feedback anonymously via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeHY_H8fljDT11AUODBpzTke1NGN4RL7pGqBFFG9ExGcKhSKA/viewform?usp=sf_link).
