@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Cloud-Pocket/Cloud-Pocket/gh-pages/cloud-pocket-logo.png" width="20%" alt="logo">
+    <img src="https://raw.githubusercontent.com/Cloud-Pocket/Cloud-Pocket/gh-pages/cloud-pocket-logo.png" height="166px" alt="logo">
 </p>
 
 <h1 align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/Cloud-Pocket/Cloud-Pocket/issues/new/choose">
-        <img src="https://raw.githubusercontent.com/Cloud-Pocket/Cloud-Pocket/7947fe4e119a24606f9f6d09b31ff96b86bcd56a/send-feedback-button.svg" alt="Send Feedback" width="30%">
+        <img src="https://raw.githubusercontent.com/Cloud-Pocket/Cloud-Pocket/7947fe4e119a24606f9f6d09b31ff96b86bcd56a/send-feedback-button.svg" alt="Send Feedback" height="80px">
     </a>
 </p>
 
